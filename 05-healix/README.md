@@ -1,0 +1,2 @@
+- https://www.youtube.com/watch?v=6INavpFI7Eo&t=7214s
+- https://github.com/snsupratim/medicalAssistant

@@ -1,0 +1,24 @@
+[project]
+name = "healix"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.116.1",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.72",
+    "langchain-google-genai>=2.1.8",
+    "langchain-pinecone>=0.2.11",
+    "loguru>=0.7.3",
+    "pinecone>=7.3.0",
+    "pydantic>=2.11.7",
+    "pypdf>=5.8.0",
+    "python-dotenv>=1.1.1",
+    "python-multipart>=0.0.20",
+    "requests>=2.32.4",
+    "streamlit>=1.47.1",
+    "tqdm>=4.67.1",
+    "uvicorn[standard]>=0.35.0",
+]

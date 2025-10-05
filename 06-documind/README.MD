@@ -1,0 +1,2 @@
+- Build a MultiModal RAG PDF Q&A Chatbot using Cohere, ChromaDB & Gemini with LangChain
+- https://www.youtube.com/watch?v=FIr06zvftWE&t=47s
